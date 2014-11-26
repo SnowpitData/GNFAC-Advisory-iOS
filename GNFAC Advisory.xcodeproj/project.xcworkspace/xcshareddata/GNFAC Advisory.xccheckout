@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>404A442D-0C18-4BFD-BA48-E1F890521B96</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GNFAC Advisory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13430935ECF607E5D2C4D37A41138180FF164510</key>
+		<string>https://github.com/mkahrl/GNFAC-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GNFAC Advisory.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13430935ECF607E5D2C4D37A41138180FF164510</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mkahrl/GNFAC-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13430935ECF607E5D2C4D37A41138180FF164510</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13430935ECF607E5D2C4D37A41138180FF164510</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GNFAC-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
