@@ -27,7 +27,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
-    NSString *fullURL = @"https://www.youtube.com/playlist?list=PLXu5151nmAvRs_cO_yoHbvaXfYOqzrzjK";
+    //// update for 2015-16 playlist
+    NSString *fullURL = @"https://www.youtube.com/watch?v=xp6MqrJVSPg&list=PLXu5151nmAvTX9Ybgm8oLHDbsDFqwDO1A";
     NSURL *url = [NSURL URLWithString:fullURL];
     NSURLRequest *requestObj = [NSURLRequest requestWithURL:url];
     self.videoWebView.scalesPageToFit = YES;
